@@ -1,6 +1,6 @@
-# Welcome to my GitHub profile!
+# Welcome to my GitHub profile 👨‍💻!
 
-## Olá! Seja bem-vindo ao meu perfil do GitHub!
+## Olá! Seja bem-vindo ao meu perfil do GitHub 👨‍💻!
 
 Hello, I'm Thiago Lahass and I'm a Computer Engineering student at UFES (Federal University of Espírito Santo) and a software developer with experience in several languages, from the lowest level, such as Assembly; intermediate level, such as C and C++; to the high level, where I have proficiency mainly in Python, Java and Kotlin. I also have skills in other technologies such as Android Studio, Firebase (Authentication, Firestore Database, Storage and other services), AdMob, JSON file processing, VScode, HTML, CSS, JavaScript, Git, Linux, Unity, VHDL and Arduino. Of the technologies listed, in some I consider myself more experienced, in others I have more basic knowledge, but in my view, my main differential is the ability to learn quickly when I need to use a new technology. In addition to developing software, I also have good knowledge in hardware, such as electrical circuits, logic circuits, basic electronics, computer architecture, control blocks, among others, which help me in my learning and general understanding of how software can work. This is my GitHub profile, where I share some of my personal projects and contributions to open source projects. Thank you very much for your attention.
 
@@ -66,9 +66,7 @@ Aqui estão algumas das minhas contribuições em projetos de código aberto no 
 
 ## Contato
 
-If you'd like to get in touch with me, you can find me on [LinkedIn](link to LinkedIn profile) or [Twitter](link to Twitter profile).
-
-Se quiser entrar em contato comigo, pode me encontrar no [LinkedIn](link para o perfil do LinkedIn) ou no [Twitter](link para o perfil do Twitter).
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahassthiagofelippe@gmail.com)
 
 ## Acknowledgments
 
