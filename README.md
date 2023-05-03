@@ -34,9 +34,7 @@ Implementação de vários tipos de dados estruturados na linguagem C, como List
 
 ## Habilidades
 
-- [List the programming languages and technologies you're proficient in, for example: JavaScript, Python, React, Node.js, HTML/CSS, etc.]
 
-- [Listar as linguagens de programação e tecnologias em que você é especialista, por exemplo: JavaScript, Python, React, Node.js, HTML/CSS, etc.]
 
 ## Contributions
 
@@ -58,16 +56,19 @@ Aqui estão algumas das minhas contribuições em projetos de código aberto no 
 
 ## Estatísticas
 
-[Include charts and statistics that showcase your contributions on GitHub, for example: number of commits, pull requests, closed issues, etc.]
+<div>
+    <a href="https://github.com/ThiagoLahass">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLahass&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight"/>
+</div>
 
-[Incluir gráficos e estatísticas que exibam suas contribuições no GitHub, por exemplo: número de commits, solicitações de pull, issues fechadas, etc.]
+
 
 ## Contact
 
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahassthiagofelippe@gmail.com)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_lahass/)
 
 ## Acknowledgments
