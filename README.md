@@ -14,13 +14,13 @@ Here are some of my projects on GitHub:
 
 Aqui estão alguns dos meus projetos no GitHub:
 
-### [Project name](link to repository)
+### [Data Structure](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
 
-### [Nome do projeto](link para o repositório)
+### [Estrutura de Dados](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
 
-[Brief project description. Include the objective, technologies used, project features, etc.]
+Implementation of various types of structured data in the C language, such as Single and Double Linked Lists, Trees, Binary Search Trees, Hash Tables, in addition to generic structures.
 
-[Breve descrição do projeto. Inclua o objetivo, as tecnologias usadas, os recursos do projeto, etc.]
+Implementação de vários tipos de dados estruturados na linguagem C, como Listas Simples e Duplamente Encadeadas, Árvores, Árvores Binárias de Busca, Tabela Hash, além de estruturas genéricas.
 
 ### [Project name](link to repository)
 
