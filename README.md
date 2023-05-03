@@ -68,6 +68,8 @@ Aqui estão algumas das minhas contribuições em projetos de código aberto no 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahassthiagofelippe@gmail.com)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_lahass/)
+
 ## Acknowledgments
 
 ## Agradecimentos
