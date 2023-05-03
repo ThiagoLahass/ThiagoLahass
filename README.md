@@ -78,7 +78,7 @@ Aqui estão algumas das minhas contribuições em projetos de código aberto no 
 
 ## Estatísticas
 
-<div>
+<div align="center">
     <a href="https://github.com/ThiagoLahass">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLahass&count_private=true&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight"/>
