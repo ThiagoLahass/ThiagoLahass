@@ -105,7 +105,7 @@ Thank you for visiting my GitHub profile! If you liked my projects or contributi
 
 Obrigado por visitar o meu perfil do GitHub! Se gostou dos meus projetos ou contribuições, sinta-se à vontade para compartilhá-los ou dar uma estrela.
 
-
+![Snake Animation](https://github.com/ThiagoLahass/ThiagoLahass/blob/output/github-contribution-grid-snake.svg)
 
 
 
