@@ -18,6 +18,8 @@ Aqui estão alguns dos meus projetos no GitHub:
 
 ### [Estrutura de Dados](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
 
+##
+
 Implementation of various types of structured data in the C language, such as Single and Double Linked Lists, Trees, Binary Search Trees, Hash Tables, in addition to generic structures.
 
 Implementação de vários tipos de dados estruturados na linguagem C, como Listas Simples e Duplamente Encadeadas, Árvores, Árvores Binárias de Busca, Tabela Hash, além de estruturas genéricas.
@@ -90,8 +92,10 @@ Aqui estão algumas das minhas contribuições em projetos de código aberto no 
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahassthiagofelippe@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_lahass/)
+<div align="center">
+    <a href="mailto:lahassthiagofelippe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/thiago_lahass/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ## Acknowledgments
 
