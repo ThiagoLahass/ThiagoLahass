@@ -34,7 +34,7 @@ Implementação de vários tipos de dados estruturados na linguagem C, como List
 
 ## Habilidades
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
     <img align="center" alt="Thiago-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="Thiago-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Thiago-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
