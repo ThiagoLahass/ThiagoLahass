@@ -11,12 +11,6 @@
 ##
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagoLahass&bg_color=000000&color=db3333&line=ff00ae&point=f722b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
-##
-    
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoLahass&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ## Skills / Habilidades ⚡
 <div align="center" style="display: inline_block"><br>
