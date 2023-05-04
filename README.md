@@ -1,12 +1,22 @@
-# Welcome to my GitHub profile 👨‍💻!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=header"/>
 
-## Olá! Seja bem-vindo ao meu perfil do GitHub 👨‍💻!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Lahass;I'm+20+years+old;I'm+from+Brazil;I+Graduated+Computer+Engineering;Welcome+to+my+GitHub+profile+👨‍💻+!)](https://git.io/typing-svg)
 
 <div align="center">
     <a href="https://github.com/ThiagoLahass">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLahass&count_private=true&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight"/>
 </div>
+    
+##
+    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagoLahass&bg_color=000000&color=db3333&line=ff00ae&point=f722b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+##
+    
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoLahass&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ## Skills / Habilidades ⚡
 <div align="center" style="display: inline_block"><br>
@@ -69,22 +79,4 @@ Thank you for visiting my GitHub profile! If you liked my projects or contributi
 
 Obrigado por visitar o meu perfil do GitHub! Se gostou dos meus projetos ou contribuições, sinta-se à vontade para compartilhá-los ou dar uma estrela.
 
-
-
-<!--
-### Hi there 👋
-
-
-**ThiagoLahass/ThiagoLahass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=footer"/>
