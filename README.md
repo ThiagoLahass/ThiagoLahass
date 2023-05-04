@@ -51,19 +51,21 @@ Hello, I'm Thiago Lahass and I'm a Computer Engineering student at UFES (Federal
 
 Olá, sou Thiago Lahass e sou estudante de Engenharia da Computação na UFES (Universidade Federal do Espírito Santo) e desenvolvedor de software com experiência em diversas linguagens, desde o nível mais baixo, como Assembly; nível médio, como C e C++; até as de alto nível, onde possuo proficiência principalmente em Python, Java e Kotlin. Também possuo habilidades em outras tecnologias, como Android Studio, Firebase(Autenticação, Firestore Database, Storage e outros serviços), AdMob, processamento de arquivos JSON, VScode, HTML, CSS, JavaScript, Git, Linux, Unity, VHDL e Arduino. Das tecnologias listadas, em algumas me considero mais experiente, em outras tenho conhecimentos mais básicos, mas ao meu ver, meu principal diferencial é a capacidade de aprender rapidamente quando preciso utilizar uma nova tecnologia. Além de desenvolver software, também tenho bons conhecimentos em hardware, como circuitos eletricos, circuitos lógicos, eletronica básica, arquitetura de computadores, blocos de controle, entre outros, que me auxiliam no meu aprendizado e entendimento geral de como o software consegue trabalhar. Este é meu perfil do GitHub, onde compartilho alguns de meus projetos pessoais e contribuições para projetos de código aberto. Muito obrigado pela sua atenção.
 
-## Projects
-
-## Projetos
+## Projects / Projetos
 
 Here are some of my projects on GitHub:
 
 Aqui estão alguns dos meus projetos no GitHub:
 
-### [Data Structure](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
+### [Data Structure / Estrutura de Dados](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
 
-### [Estrutura de Dados](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
+Implementation of various types of structured data in the C language, such as Single and Double Linked Lists, Trees, Binary Search Trees, Hash Tables, in addition to generic structures.
+
+Implementação de vários tipos de dados estruturados na linguagem C, como Listas Simples e Duplamente Encadeadas, Árvores, Árvores Binárias de Busca, Tabela Hash, além de estruturas genéricas.
 
 ##
+
+### [Data Structure / Estrutura de Dados](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
 
 Implementation of various types of structured data in the C language, such as Single and Double Linked Lists, Trees, Binary Search Trees, Hash Tables, in addition to generic structures.
 
