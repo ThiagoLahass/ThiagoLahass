@@ -63,14 +63,6 @@ Implementation of various types of structured data in the C language, such as Si
 
 Implementação de vários tipos de dados estruturados na linguagem C, como Listas Simples e Duplamente Encadeadas, Árvores, Árvores Binárias de Busca, Tabela Hash, além de estruturas genéricas.
 
-##
-
-### [Data Structure / Estrutura de Dados](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
-
-Implementation of various types of structured data in the C language, such as Single and Double Linked Lists, Trees, Binary Search Trees, Hash Tables, in addition to generic structures.
-
-Implementação de vários tipos de dados estruturados na linguagem C, como Listas Simples e Duplamente Encadeadas, Árvores, Árvores Binárias de Busca, Tabela Hash, além de estruturas genéricas.
-
 ## Acknowledgments / Agradecimentos ✨
 
 Thank you for visiting my GitHub profile! If you liked my projects or contributions, feel free to share them or give a star.
