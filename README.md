@@ -8,8 +8,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight"/>
 </div>
 
-##
-
 ## Skills / Habilidades
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Thiago-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -33,8 +31,6 @@
     <img align="center" alt="Thiago-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
     <img align="center" alt="Thiago-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />     
 </div>
-
-##
 
 ## Contact / Contato
 
