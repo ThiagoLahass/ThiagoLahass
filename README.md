@@ -11,6 +11,10 @@
 ##
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagoLahass&bg_color=000000&color=db3333&line=ff00ae&point=f722b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+##
+
+![Snake Animation](https://github.com/ThiagoLahass/ThiagoLahass/blob/output/github-contribution-grid-snake.svg)
 
 ## Skills / Habilidades ⚡
 <div align="center" style="display: inline_block"><br>
@@ -42,10 +46,6 @@
     <a href="mailto:lahassthiagofelippe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/thiago_lahass/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
-![Snake Animation](https://github.com/ThiagoLahass/ThiagoLahass/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
