@@ -9,8 +9,8 @@
 </div>
     
 ##
-    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagoLahass&bg_color=000000&color=db3333&line=ff00ae&point=f722b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--     
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagoLahass&bg_color=000000&color=db3333&line=ff00ae&point=f722b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
     
 ##
 
