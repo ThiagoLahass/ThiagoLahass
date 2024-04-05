@@ -26,7 +26,6 @@
     <img style="margin: 5px;" align="center" alt="Thiago-VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-INTELLIJ" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-ANDROIDSTUDIO" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-GRADLE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-FIREBASE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
