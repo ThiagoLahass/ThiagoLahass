@@ -6,12 +6,9 @@
     <a href="https://github.com/ThiagoLahass">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLahass&count_private=true&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight"/>
+    <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoLahass&theme=tokyonight" width=76% style="center"></img>
 </div>
-    
-##
-<!--     
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagoLahass&bg_color=000000&color=db3333&line=ff00ae&point=f722b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-    
+
 ##
 
 ![Snake Animation](https://github.com/ThiagoLahass/ThiagoLahass/blob/output/github-contribution-grid-snake.svg)
