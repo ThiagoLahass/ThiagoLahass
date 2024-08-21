@@ -112,23 +112,38 @@
   <li>🧠 Participando de um projeto de Iniciação Científica (IC) investigando ferramentas de modelagem System Thinking (ST) em Engenharia de Software (SE)</li>
 </ul>
 
+## Projects / Projetos 🚀
 
-## Projects / Projetos 💬
+### Microcontroller Projects / Projetos com Microcontroladores 🤖
+- [Crane Automated Through Computer Vision](https://github.com/ThiagoLahass/Crane-automated-through-computer-vision): Automated crane control using computer vision for precision.
+- [Robot That Solves Mazes](https://github.com/ThiagoLahass/robot-that-solves-mazes): A robot capable of solving maze puzzles autonomously.
 
-Here are some of my projects on GitHub:
+### AI in Healthcare / IA na Área da Saúde 🧬
+- [Prediction of Gait Parameters for Lower Limb Prostheses with Volitional Control](https://github.com/ThiagoLahass/2024-1-P1-prediction-of-gait-parameters-for-lower-limb-prostheses-with-volitional-control): AI model to predict gait parameters for prosthetic limbs.
+- [Alzheimer's Level Prediction Based on Brain MRI Images](https://github.com/ThiagoLahass/2024-1-P2-alzheimers-level-prediction-based-on-brain-MRI-images): AI model for predicting Alzheimer's disease levels from MRI images.
 
-Aqui estão alguns dos meus projetos no GitHub:
+### Pure C Applications / Aplicações com C Puro 💻
+- [Implementing an Anti-Crowd Shell in C](https://github.com/ThiagoLahass/Implementing_an_anti-crowd_shell_in_C): Development of an anti-crowd shell for enhanced security.
+- [Mini Search Engine](https://github.com/ThiagoLahass/Mini-Search-Engine): A basic search engine implemented in C.
 
-### [Data Structure / Estrutura de Dados](https://github.com/ThiagoLahass/Estruturas-de-Dados.git)
+### Android Applications / Aplicações Android 📱
+- [Weather App (Kotlin)](https://github.com/ThiagoLahass/Android-App_Clima-Tempo_Kotlin): Android application for weather forecasting.
+- [Movie App (Kotlin)](https://github.com/ThiagoLahass/App-de-Filmes_AndroidApp_Kotlin): Android app for browsing movies.
 
-Implementation of various types of structured data in the C language, such as Single and Double Linked Lists, Trees, Binary Search Trees, Hash Tables, in addition to generic structures.
-
-Implementação de vários tipos de dados estruturados na linguagem C, como Listas Simples e Duplamente Encadeadas, Árvores, Árvores Binárias de Busca, Tabela Hash, além de estruturas genéricas.
+### Mini Games / Mini Jogos 🎮
+- [IntroBattle - Mini RPG Game in Python](https://github.com/ThiagoLahass/IntroBattle--Mini-RPG-game-in-python): A mini RPG game developed in Python.
+- [Slot Machine - C++](https://github.com/ThiagoLahass/Slot-Machine---C-Plus-Plus): A slot machine game implemented in C++.
 
 ## Acknowledgments / Agradecimentos ✨
 
-Thank you for visiting my GitHub profile! If you liked my projects or contributions, feel free to share them or give a star.
+Thank you for visiting my GitHub profile! 🚀 If you enjoyed my projects or contributions, please feel free to give a star ⭐, share them 🔗, or connect with me. Your support means a lot and helps motivate me to continue working on new and exciting projects!
 
-Obrigado por visitar o meu perfil do GitHub! Se gostou dos meus projetos ou contribuições, sinta-se à vontade para compartilhá-los ou dar uma estrela.
+I also want to extend my gratitude to the open-source community and everyone who has contributed to the tools and libraries I use. 🙏 Your hard work and dedication make a huge difference in the development world!
+
+---
+
+Obrigado por visitar o meu perfil do GitHub! 🚀 Se você gostou dos meus projetos ou contribuições, sinta-se à vontade para dar uma estrela ⭐, compartilhá-los 🔗 ou se conectar comigo. Seu apoio é muito importante e me motiva a continuar trabalhando em novos e empolgantes projetos!
+
+Gostaria também de expressar minha gratidão à comunidade de código aberto e a todos que contribuíram para as ferramentas e bibliotecas que eu uso. 🙏 O seu trabalho duro e dedicação fazem uma enorme diferença no mundo do desenvolvimento!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
