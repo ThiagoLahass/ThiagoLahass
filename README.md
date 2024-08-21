@@ -102,7 +102,7 @@
 
 <ul>
   <li>👨‍🎓 Estudante de Engenharia da Computação na <a href="https://www.ufes.br/" target="_blank">UFES</a>, atualmente no sétimo período</li>
-  <li>💻 Proficiência em uma ampla gama de linguagens de programação e tecnologias, incluindo C, C++, Python, Java, Kotlin, Android Studio, Firebase, HTML, CSS, JavaScript, entre outras</li>
+  <li>💻 Proficiência em uma ampla gama de linguagens de programação e tecnologias, incluindo C, C++, Python, Java, Kotlin, Android Studio, Firebase, JavaScript, entre outras</li>
   <li>🛠️ Experiência com ferramentas como VScode, Git, Linux, Unity e VHDL</li>
   <li>📊 Forte conhecimento em ciência de dados com habilidades em Jupyter, PyTorch, Scikit-learn, Anaconda, MATLAB, Matplotlib e Pandas</li>
   <li>🔍 Conhecimento em hardware, incluindo circuitos eletrônicos, circuitos lógicos e arquitetura de computadores</li>
