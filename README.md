@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header"/>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=ThiagoLahass&countColor=%237B1E7A)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Lahass;I'm+22+years+old;I'm+from+Brazil;7th-semester+Comp.+Eng.+student+at+UFES;Welcome+to+my+GitHub+profile+👨‍💻+!)](https://git.io/typing-svg)
 
 <div align="center">
