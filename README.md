@@ -15,27 +15,65 @@
 
 ![Snake Animation](https://github.com/ThiagoLahass/ThiagoLahass/blob/output/github-contribution-grid-snake.svg)
 
-## Skills / Habilidades ⚡
+<h1 align="center">⚡ &nbsp;Skills / Habilidades</h1>
+<h2 align="center">🖥️ &nbsp;Programming Languages / Linguagens de Programação</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-CPP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-EMBEDDEDC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-RUST" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-PROLOG" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-KOTLIN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-MARKDOWN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+</div>
+<h2 align="center">🛠️ &nbsp;Development Tools / Ferramentas de Desenvolvimento</h2>
+<div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-INTELLIJ" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-ANDROIDSTUDIO" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-FIREBASE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-LINUX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-UNITY" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-SLACK" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-TRELLO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" />
+</div>
+<h2 align="center">📊 &nbsp;Data Science Tools / Ferramentas e Bibliotecas para Ciência de Dados</h2>
+<div align="center" style="display: inline_block"><br>
+    <img style="margin: 5px;" align="center" alt="Thiago-ANACONDA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-JUPYTER" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-PYTORCH" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-SCIKITLEARN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-MATPLOTLIB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-PANDAS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-MATLAB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+</div>
+<h2 align="center">🌐 &nbsp;Web Development / Desenvolvimento Web</h2>
+<div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-MARKDOWN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-LINUX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-UNITY" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-XML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
+</div>
+<h2 align="center">📱 &nbsp;Application Development / Desenvolvimento de Aplicações</h2>
+<div align="center" style="display: inline_block"><br>
+    <img style="margin: 5px;" align="center" alt="Thiago-FIREBASE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-ARDUINO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-SLACK" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />     
+</div>
+<h2 align="center">📝 &nbsp;UML / Modelagem UML</h2>
+<div align="center" style="display: inline_block"><br>
+    <img style="margin: 5px;" align="center" alt="Thiago-UML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
+</div>
+<h2 align="center">👁️ &nbsp;Computer Vision Tools / Ferramentas para Visão Computacional</h2>
+<div align="center" style="display: inline_block"><br>
+    <img style="margin: 5px;" align="center" alt="Thiago-OPENCV" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
+</div>
+<h2 align="center">🎨 &nbsp;Design Tools / Ferramentas de Design</h2>
+<div align="center" style="display: inline_block"><br>
+    <img style="margin: 5px;" align="center" alt="Thiago-CANVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-FIGMA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
 ## Contact / Contato 📩
@@ -43,15 +81,37 @@
 <div align="center">
     <a href="mailto:lahassthiagofelippe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/th_lahass/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/thiago-lahass-172a5b27a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
 
 ## About Me / Sobre mim 🔭
 
-Hello, I'm Thiago Lahass, a Computer Engineering student at the Federal University of Espírito Santo (UFES) in my seventh period. I have solid knowledge and experience as a software developer, covering a wide range of programming languages, from the lowest level, such as Assembly, intermediate, for example C, to the highest level, such as Python, Java and Kotlin. Additionally, I have skills in technologies such as Android Studio, Firebase, AdMob, JSON file processing, VScode, HTML, CSS, JavaScript, Git, Linux, Unity, VHDL, openCv and Machine Learning. I highlight my ability to learn quickly when using new technologies, which allows me to easily adapt to different environments and projects. This skill has been fundamental in facing challenges and staying up to date in a constantly evolving field. In addition to software development, I have solid knowledge in hardware, such as electronic circuits, logic circuits, basic electronics, computer architecture and control blocks. This comprehensive understanding of the inner workings of systems gives me a broader view and a more complete approach to developing solutions. I also highlight my outstanding participation in the Brazilian Public School Mathematics Olympiad (OBMEP), having won medals in all possible categories - bronze, silver and gold, in addition to other Olympiads focused on the exact area. This experience demonstrates my analytical capacity, logical reasoning and mathematical skills, which are fundamental for solving complex problems. Additionally, I worked as a monitor in the Network Administration Laboratory (LAR) of the IT Department at UFES, which allowed me to improve my communication skills, teamwork and assist other students in developing projects and solving problems. I am currently involved in developing Android software as a personal project in partnership with a client. This experience has provided the opportunity to apply my knowledge and skills in a real software development environment, dealing with practical challenges and delivering efficient solutions. I am excited to continue improving my skills and contributing to the field of Computer Engineering through projects challenging and innovative. Furthermore, I am currently participating in a project in the context of Scientific Initiation (IC), in which we investigate the use of System Thinking (ST) modeling tools in Software Engineering (SE).
+<ul>
+  <li>👨‍🎓 Computer Engineering student at <a href="https://www.ufes.br/" target="_blank">UFES</a>, currently in the seventh period</li>
+  <li>💻 Proficient in a wide range of programming languages and technologies, including C, C++, Python, Java, Kotlin, Android Studio, Firebase, JavaScript, and more</li>
+  <li>🛠️ Experienced with tools such as VScode, Git, Linux, Unity, and VHDL</li>
+  <li>📊 Strong background in data science with skills in Jupyter, PyTorch, Scikit-learn, Anaconda, MATLAB, Matplotlib, and Pandas</li>
+  <li>🔍 Knowledgeable in hardware, including electronic circuits, logic circuits, and computer architecture</li>
+  <li>🏅 Awarded medals in all categories (bronze, silver, gold) in the Brazilian Public School Mathematics Olympiad (OBMEP)</li>
+  <li>👨‍🏫 Former teaching assistant in the Network Administration Laboratory (LAR) at UFES</li>
+  <li>📱 Currently developing Android software as a personal project with a client</li>
+  <li>🧠 Participating in a Scientific Initiation project investigating System Thinking (ST) modeling tools in Software Engineering (SE)</li>
+</ul>
 
-Olá, eu sou Thiago Lahass, estudante de Engenharia da Computação na Universidade Federal do Espírito Santo (UFES) estando no sétimo período. Tenho sólidos conhecimentos e experiência como desenvolvedor de software, abrangendo uma ampla gama de linguagens de programação, desde as de nível mais baixo, como Assembly, intemrdoário, por exemplo C, até as de mais alto nível, como Python, Java e Kotlin. Além disso, possuo habilidades em tecnologias como Android Studio, Firebase, AdMob, processamento de arquivos JSON, VScode, HTML, CSS, JavaScript, Git, Linux, Unity, VHDL, openCv e Machine Learning. Destaco minha capacidade de aprendizado rápido ao utilizar novas tecnologias, o que me permite adaptar-me facilmente a diferentes ambientes e projetos. Essa habilidade tem sido fundamental para enfrentar os desafios e manter-me atualizado em um campo em constante evolução. Além do desenvolvimento de software, possuo conhecimentos sólidos em hardware, como circuitos eletrônicos, circuitos lógicos, eletrônica básica, arquitetura de computadores e blocos de controle. Essa compreensão abrangente do funcionamento interno dos sistemas me proporciona uma visão ampla e uma abordagem mais completa no desenvolvimento de soluções. Destaco também minha participação de destaque na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP), tendo conquistado medalhas em todas as categorias possíveis - bronze, prata e ouro, além de outras olimpíadas voltadas para a área de exatas. Essa experiência demonstra minha capacidade analítica, raciocínio lógico e habilidades matemáticas, que são fundamentais para a resolução de problemas complexos. Adicionalmente, atuei como monitor no Laboratório de Administração de Redes (LAR) do Departamento de Informática da UFES, o que me permitiu aprimorar minhas habilidades de comunicação, trabalho em equipe e auxiliar outros estudantes no desenvolvimento de projetos e resolução de problemas. Atualmente, estou envolvido no desenvolvimento de um software Android como um projeto pessoal em parceria com um cliente. Essa experiência tem proporcionado a oportunidade de aplicar meus conhecimentos e habilidades em um ambiente real de desenvolvimento de software, lidando com desafios práticos e entregando soluções eficientes.Estou entusiasmado em continuar aprimorando minhas habilidades e contribuindo para o campo da Engenharia da Computação por meio de projetos desafiadores e inovadores. Ademais, atualmente participo de um projeto no contexto de Iniciação Científica (IC), no qual investigamos o uso de ferramentas de modelagem System Thinking (ST) em Engenharia de Software (SE).
+---
+
+<ul>
+  <li>👨‍🎓 Estudante de Engenharia da Computação na <a href="https://www.ufes.br/" target="_blank">UFES</a>, atualmente no sétimo período</li>
+  <li>💻 Proficiência em uma ampla gama de linguagens de programação e tecnologias, incluindo C, C++, Python, Java, Kotlin, Android Studio, Firebase, HTML, CSS, JavaScript, entre outras</li>
+  <li>🛠️ Experiência com ferramentas como VScode, Git, Linux, Unity e VHDL</li>
+  <li>📊 Forte conhecimento em ciência de dados com habilidades em Jupyter, PyTorch, Scikit-learn, Anaconda, MATLAB, Matplotlib e Pandas</li>
+  <li>🔍 Conhecimento em hardware, incluindo circuitos eletrônicos, circuitos lógicos e arquitetura de computadores</li>
+  <li>🏅 Medalhista em todas as categorias (bronze, prata, ouro) na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)</li>
+  <li>👨‍🏫 Ex-monitor no Laboratório de Administração de Redes (LAR) da UFES</li>
+  <li>📱 Atualmente desenvolvendo um software Android como projeto pessoal em parceria com um cliente</li>
+  <li>🧠 Participando de um projeto de Iniciação Científica (IC) investigando ferramentas de modelagem System Thinking (ST) em Engenharia de Software (SE)</li>
+</ul>
+
 
 ## Projects / Projetos 💬
 
