@@ -2,12 +2,12 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=ThiagoLahass&countColor=%237B1E7A)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Lahass;I'm+22+years+old;I'm+from+Brazil;7th-semester+Comp.+Eng.+student+at+UFES;Welcome+to+my+GitHub+profile+👨‍💻+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Lahass;I'm+22+years+old;I'm+from+Brazil;8th-semester+Comp.+Eng.+student+at+UFES;Welcome+to+my+GitHub+profile+👨‍💻+!)](https://git.io/typing-svg)
 
 <div align="center">
     <a href="https://github.com/ThiagoLahass">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLahass&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight&exclude_repo=Computational-Intelligence-in-Health-with-Python,Breast-Cancer-Diagnostic-Prediction-with-Machine-Learning,Linear-regression-for-predicting-patients-medical-cost,Classificador-de-AVCs-com-Scikit_learn,Analise-dos-dados-de-COVID-19-no-estado-do-ES,Trend-topics-for-a-chosen-subreddit-in-Reddit"/>
     <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoLahass&theme=tokyonight" width=76% style="center"></img>
 </div>
 
@@ -16,6 +16,7 @@
 ![Snake Animation](https://github.com/ThiagoLahass/ThiagoLahass/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">⚡ &nbsp;Skills / Habilidades</h1>
+
 <h2 align="center">🖥️ &nbsp;Programming Languages / Linguagens de Programação</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -26,8 +27,11 @@
     <img style="margin: 5px;" align="center" alt="Thiago-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-KOTLIN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-MARKDOWN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
+
 <h2 align="center">🛠️ &nbsp;Development Tools / Ferramentas de Desenvolvimento</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -40,6 +44,7 @@
     <img style="margin: 5px;" align="center" alt="Thiago-SLACK" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-TRELLO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" />
 </div>
+
 <h2 align="center">📊 &nbsp;Data Science Tools / Ferramentas e Bibliotecas para Ciência de Dados</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-ANACONDA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
@@ -50,26 +55,44 @@
     <img style="margin: 5px;" align="center" alt="Thiago-PANDAS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-MATLAB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 </div>
+
 <h2 align="center">🌐 &nbsp;Web Development / Desenvolvimento Web</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img style="margin: 5px;" align="center" alt="Thiago-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-TAILWINDCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-XML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-NEXT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
+
 <h2 align="center">📱 &nbsp;Application Development / Desenvolvimento de Aplicações</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-FIREBASE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-NEST" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+</div>
+
+<h2 align="center">🗄️ &nbsp;Databases / Bancos de Dados</h2>
+<div align="center" style="display: inline_block"><br>
+    <img style="margin: 5px;" align="center" alt="Thiago-POSTGRESQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+          
+<h2 align="center">🔧 &nbsp;Hardware Development / Desenvolvimento de Hardware</h2>
+<div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-ARDUINO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
+
 <h2 align="center">📝 &nbsp;UML / Modelagem UML</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-UML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
 </div>
+
 <h2 align="center">👁️ &nbsp;Computer Vision Tools / Ferramentas para Visão Computacional</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-OPENCV" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
 </div>
+
 <h2 align="center">🎨 &nbsp;Design Tools / Ferramentas de Design</h2>
 <div align="center" style="display: inline_block"><br>
     <img style="margin: 5px;" align="center" alt="Thiago-CANVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
@@ -87,7 +110,7 @@
 ## About Me / Sobre mim 🔭
 
 <ul>
-  <li>👨‍🎓 Computer Engineering student at <a href="https://www.ufes.br/" target="_blank">UFES</a>, currently in the seventh period</li>
+  <li>👨‍🎓 Computer Engineering student at <a href="https://www.ufes.br/" target="_blank">UFES</a>, currently in the eighth period</li>
   <li>💻 Proficient in a wide range of programming languages and technologies, including C, C++, Python, Java, Kotlin, Android Studio, Firebase, JavaScript, and more</li>
   <li>🛠️ Experienced with tools such as VScode, Git, Linux, Unity, and VHDL</li>
   <li>📊 Strong background in data science with skills in Jupyter, PyTorch, Scikit-learn, Anaconda, MATLAB, Matplotlib, and Pandas</li>
@@ -101,15 +124,15 @@
 ---
 
 <ul>
-  <li>👨‍🎓 Estudante de Engenharia da Computação na <a href="https://www.ufes.br/" target="_blank">UFES</a>, atualmente no sétimo período</li>
-  <li>💻 Proficiência em uma ampla gama de linguagens de programação e tecnologias, incluindo C, C++, Python, Java, Kotlin, Android Studio, Firebase, JavaScript, entre outras</li>
+  <li>👨‍🎓 Estudante de Engenharia da Computação na <a href="https://www.ufes.br/" target="_blank">UFES</a>, atualmente no oitavo período</li>
+  <li>💻 Proficiência em uma ampla gama de linguagens de programação e tecnologias, incluindo C, C++, Python, Java, Kotlin, Android Studio, Firebase, JavaScript, Typescript, React, Next, entre outras</li>
   <li>🛠️ Experiência com ferramentas como VScode, Git, Linux, Unity e VHDL</li>
   <li>📊 Forte conhecimento em ciência de dados com habilidades em Jupyter, PyTorch, Scikit-learn, Anaconda, MATLAB, Matplotlib e Pandas</li>
   <li>🔍 Conhecimento em hardware, incluindo circuitos eletrônicos, circuitos lógicos e arquitetura de computadores</li>
   <li>🏅 Medalhista em todas as categorias (bronze, prata, ouro) na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)</li>
   <li>👨‍🏫 Ex-monitor no Laboratório de Administração de Redes (LAR) da UFES</li>
   <li>📱 Atualmente desenvolvendo um software Android como projeto pessoal em parceria com um cliente</li>
-  <li>🧠 Participando de um projeto de Iniciação Científica (IC) investigando ferramentas de modelagem System Thinking (ST) em Engenharia de Software (SE)</li>
+  <li>🧠 Participando de um projeto de Iniciação Científica (IC) investigando ferramentas de modelagem do Pensamento Sistêmico (PS) em Engenharia de Software (ES)</li>
 </ul>
 
 ## Projects / Projetos 🚀
@@ -129,6 +152,10 @@
 ### Android Applications / Aplicações Android 📱
 - [Weather App (Kotlin)](https://github.com/ThiagoLahass/Android-App_Clima-Tempo_Kotlin): Android application for weather forecasting.
 - [Movie App (Kotlin)](https://github.com/ThiagoLahass/App-de-Filmes_AndroidApp_Kotlin): Android app for browsing movies.
+
+### Fullstack Applications / Aplicações Fullstack 🌐
+- [Basics of Fullstack Technologies](https://github.com/ThiagoLahass/basics-of-fullstack-technologies): Introduction to fundamental fullstack technologies.
+- [Gam3r Store - E-commerce Fullstack Application](https://github.com/ThiagoLahass/gam3r-store-ecommerce-fullstack-application): A fullstack e-commerce application for gamers.
 
 ### Mini Games / Mini Jogos 🎮
 - [IntroBattle - Mini RPG Game in Python](https://github.com/ThiagoLahass/IntroBattle--Mini-RPG-game-in-python): A mini RPG game developed in Python.
