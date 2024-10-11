@@ -7,7 +7,7 @@
 <div align="center">
     <a href="https://github.com/ThiagoLahass">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLahass&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight&exclude_repo=Computational-Intelligence-in-Health-with-Python,Breast-Cancer-Diagnostic-Prediction-with-Machine-Learning,Linear-regression-for-predicting-patients-medical-cost,Classificador-de-AVCs-com-Scikit_learn,Analise-dos-dados-de-COVID-19-no-estado-do-ES,Trend-topics-for-a-chosen-subreddit-in-Reddit"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLahass&count_private=true&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=Computational-Intelligence-in-Health-with-Python,Breast-Cancer-Diagnostic-Prediction-with-Machine-Learning,Linear-regression-for-predicting-patients-medical-cost,Classificador-de-AVCs-com-Scikit_learn,Analise-dos-dados-de-COVID-19-no-estado-do-ES,Trend-topics-for-a-chosen-subreddit-in-Reddit"/>
     <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoLahass&theme=tokyonight" width=76% style="center"></img>
 </div>
 
