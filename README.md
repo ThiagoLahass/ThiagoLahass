@@ -27,6 +27,7 @@
     <img style="margin: 5px;" align="center" alt="Thiago-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-KOTLIN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img style="margin: 5px;" align="center" alt="Thiago-RUBY" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-MARKDOWN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
@@ -64,7 +65,8 @@
     <img style="margin: 5px;" align="center" alt="Thiago-XML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
     <img style="margin: 5px;" align="center" alt="Thiago-NEXT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-</div>
+    <img style="margin: 5px;" align="center" alt="Thiago-RAILS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
+</div>    
 
 <h2 align="center">📱 &nbsp;Application Development / Desenvolvimento de Aplicações</h2>
 <div align="center" style="display: inline_block"><br>
